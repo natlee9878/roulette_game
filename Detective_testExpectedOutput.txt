@@ -1,0 +1,75 @@
+
+Test1
+Detective 1: Name: Tom Balance: $100000
+You have to investigate for another 2  rounds.
+Detective 1: Name: Tom Balance: $100000
+
+Test2
+Detective 2: Name: Jane Balance: $0
+You have to investigate for another 2  rounds.
+Detective 2: Name: Jane Balance: $0
+
+Test3
+Detective 3: Name: Frank Balance: $5000
+You have to investigate for another 2  rounds.
+Detective 3: Name: Frank Balance: $5000
+
+Test4
+Detective 4: Name: Nancy Balance: $-1
+You have to investigate for another 2  rounds.
+Detective 4: Name: Nancy Balance: $-1
+
+Test5
+Detective 5: Name: Gale Balance: $400000
+You have to investigate for another 2  rounds.
+Detective 5: Name: Gale Balance: $400000
+
+Test1
+Detective 1: Name: Tom Balance: $100000
+You have to investigate for another 1  rounds.
+Detective 1: Name: Tom Balance: $100000
+
+Test2
+Detective 2: Name: Jane Balance: $0
+You have to investigate for another 1  rounds.
+Detective 2: Name: Jane Balance: $0
+
+Test3
+Detective 3: Name: Frank Balance: $5000
+You have to investigate for another 1  rounds.
+Detective 3: Name: Frank Balance: $5000
+
+Test4
+Detective 4: Name: Nancy Balance: $-1
+You have to investigate for another 1  rounds.
+Detective 4: Name: Nancy Balance: $-1
+
+Test5
+Detective 5: Name: Gale Balance: $400000
+You have to investigate for another 1  rounds.
+Detective 5: Name: Gale Balance: $400000
+
+Test1
+Detective 1: Name: Tom Balance: $100000
+You earned $200,000!
+Detective 1: Name: Tom Balance: $300000
+
+Test2
+Detective 2: Name: Jane Balance: $0
+You earned $200,000!
+Detective 2: Name: Jane Balance: $200000
+
+Test3
+Detective 3: Name: Frank Balance: $5000
+You earned $200,000!
+Detective 3: Name: Frank Balance: $205000
+
+Test4
+Detective 4: Name: Nancy Balance: $-1
+You earned $200,000!
+Detective 4: Name: Nancy Balance: $199999
+
+Test5
+Detective 5: Name: Gale Balance: $400000
+You earned $200,000!
+Detective 5: Name: Gale Balance: $600000

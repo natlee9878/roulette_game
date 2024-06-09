@@ -1,0 +1,14 @@
+echo Test 01: 123
+./player_bet_test < player_bet_testInput01.txt | diff - player_bet_testExpectedOutput01.txt
+echo Test 02: 0,1
+./player_bet_test < player_bet_testInput02.txt | diff - player_bet_testExpectedOutput02.txt
+echo Test 03: -4,4
+./player_bet_test < player_bet_testInput03.txt | diff - player_bet_testExpectedOutput03.txt
+echo Test 04: 100.5,100
+./player_bet_test < player_bet_testInput04.txt | diff - player_bet_testExpectedOutput04.txt
+echo Test 05: twenty,20
+./player_bet_test < player_bet_testInput05.txt | diff - player_bet_testExpectedOutput05.txt
+echo Test 06: **,1500
+./player_bet_test < player_bet_testInput06.txt | diff - player_bet_testExpectedOutput06.txt
+echo Test 07: 200000,130000
+./player_bet_test < player_bet_testInput07.txt | diff - player_bet_testExpectedOutput07.txt

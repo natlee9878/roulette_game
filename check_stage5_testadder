@@ -1,0 +1,6 @@
+echo Test 01: Balance: 1,000,000
+./check_stage5_test < check_stage5_testInput01.txt | diff - check_stage5_testExpectedOutput01.txt
+echo Test 02: Balance: 950,000
+./check_stage5_test < check_stage5_testInput02.txt | diff - check_stage5_testExpectedOutput02.txt
+echo Test 03: Balance: 1,500,000
+./check_stage5_test < check_stage5_testInput03.txt | diff - check_stage5_testExpectedOutput03.txt

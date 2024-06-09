@@ -1,0 +1,18 @@
+echo Test 01: 1
+./check_input_test < check_input_testInput01.txt | diff - check_input_testExpectedOutput01.txt
+echo Test 02: 2
+./check_input_test < check_input_testInput02.txt | diff - check_input_testExpectedOutput02.txt
+echo Test 03: 3
+./check_input_test < check_input_testInput03.txt | diff - check_input_testExpectedOutput03.txt
+echo Test 04: -1,1
+./check_input_test < check_input_testInput04.txt | diff - check_input_testExpectedOutput04.txt
+echo Test 05: 0,2
+./check_input_test < check_input_testInput05.txt | diff - check_input_testExpectedOutput05.txt
+echo Test 06: 1.5,3
+./check_input_test < check_input_testInput06.txt | diff - check_input_testExpectedOutput06.txt
+echo Test 07: 100,2
+./check_input_test < check_input_testInput07.txt | diff - check_input_testExpectedOutput07.txt
+echo Test 08: @,1
+./check_input_test < check_input_testInput08.txt | diff - check_input_testExpectedOutput08.txt
+echo Test 09: hello,3
+./check_input_test < check_input_testInput09.txt | diff - check_input_testExpectedOutput09.txt

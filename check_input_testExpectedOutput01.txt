@@ -1,0 +1,2 @@
+Enter an input: 
+1

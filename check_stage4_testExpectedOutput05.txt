@@ -1,0 +1,12 @@
+Enter player balance:
+~~~~~~~700,000$ MARK~~~~~~~`
+You are almost there...
+This is a final and most critical stage..
+There are 3 boxes, 1 of them will result in an instant game over. Another will cause you some trouble..
+The last one of these 3 boxes will allow you to proceed without losses and you will be one step closer to your goal..
+May the odds be in your favour..
+Enter 1 for box 1, 2 for box 2 or 3 for box 3: What are the odds.. You got caught by security.
+You have lost all your money..
+
+Current player balance: 0
+Burning: FALSE, Burn Count: 0

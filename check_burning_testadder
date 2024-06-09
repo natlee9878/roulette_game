@@ -1,0 +1,8 @@
+echo Test 01: Burning: True, Burn Count: 1
+./check_burning_test < check_burning_testInput01.txt | diff - check_burning_testExpectedOutput01.txt
+echo Test 02: Burning: False
+./check_burning_test < check_burning_testInput02.txt | diff - check_burning_testExpectedOutput02.txt
+echo Test 03: Burning: True, Burn Count: 9
+./check_burning_test < check_burning_testInput03.txt | diff - check_burning_testExpectedOutput03.txt
+echo Test 04: Burning: True, Burn Count: 0
+./check_burning_test < check_burning_testInput04.txt | diff - check_burning_testExpectedOutput04.txt

@@ -1,0 +1,11 @@
+Enter player balance:
+~~~~~~~500,000$ MARK~~~~~~~`
+You have reached the mid-point of becoming a millionaire..
+You are faced with a very important decision..
+On this stage.. there are 3 boxes, 2 of them will contain disadvantages..
+The last one of these 3 boxes will allow you to proceed without losses..
+Make a wise choice... Detective..
+Enter 1 for box 1, 2 for box 2 or 3 for box 3: You got lucky... proceed...
+
+Current player balance: 550000
+Burning: FALSE, Burn Count: 0

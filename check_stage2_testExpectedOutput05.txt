@@ -1,0 +1,7 @@
+Enter player balance:
+~~~~~~~300,000$ MARK~~~~~~~`
+Congratulations, you have reached the 300,000$ mark!
+Pick from one of the following 3 boxes...
+Enter 1 for box 1, 2 for box 2 or 3 for box 3: Unfortunately you won nothing...
+
+Current player balance: 450000

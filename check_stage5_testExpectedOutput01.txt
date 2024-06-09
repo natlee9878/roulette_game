@@ -1,0 +1,9 @@
+Enter player balance:
+~~~~~~~1,000,000$ MARK~~~~~~~`
+Congratulations, you have reached the 1,000,000$ mark!
+You are now a Golden Casino VIP..
+.....
+After joining the VIP ranks, with the help of the whistleblower you managed to collect concrete evidence against some VIPs with regards to your case.
+Finally, justice is served.
+-- CASE CLOSED --
+Current player balance: 1000000

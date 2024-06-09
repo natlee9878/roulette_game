@@ -1,0 +1,12 @@
+Enter player balance:
+~~~~~~~500,000$ MARK~~~~~~~`
+You have reached the mid-point of becoming a millionaire..
+You are faced with a very important decision..
+On this stage.. there are 3 boxes, 2 of them will contain disadvantages..
+The last one of these 3 boxes will allow you to proceed without losses..
+Make a wise choice... Detective..
+Enter 1 for box 1, 2 for box 2 or 3 for box 3: You are under the suspicion of security...You need to be extra cautious!!! 
+To shake them off, you will gradually lose money for 5 rounds..
+
+Current player balance: 690000
+Burning: TRUE, Burn Count: 5

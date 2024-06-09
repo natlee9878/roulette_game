@@ -1,0 +1,1 @@
+Is the player burning? Enter 1 for Yes and 0 for No:

@@ -1,0 +1,18 @@
+Stage 1: 1
+Stage 2: 1
+Stage 3: 1
+Stage 4: 1
+Stage 5: 1
+Enter the stage number you have passed between 1 and 5:
+Stage 3: Passed
+Stage 1: 1
+Stage 2: 1
+Stage 3: 0
+Stage 4: 1
+Stage 5: 1
+Stages below 3: Passed
+Stage 1: 0
+Stage 2: 0
+Stage 3: 0
+Stage 4: 1
+Stage 5: 1

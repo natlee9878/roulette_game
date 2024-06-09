@@ -1,0 +1,4 @@
+echo Test 01: pass, Jerry wins
+./PVP_test < PVP_testInput01.txt | diff - PVP_testExpectedOutput01.txt
+echo Test 02: pass, Tom wins
+./PVP_test < PVP_testInput02.txt | diff - PVP_testExpectedOutput02.txt

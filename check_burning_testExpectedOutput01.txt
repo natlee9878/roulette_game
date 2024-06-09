@@ -1,0 +1,6 @@
+Is the player burning? Enter 1 for Yes and 0 for No:
+How many burns left? Enter 0-10:
+BURNING! BURNING!
+You have lost $20,000..
+Burns left: 1
+

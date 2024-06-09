@@ -1,0 +1,12 @@
+echo Test 01: Balance: 250,000
+./check_stage2_test < check_stage2_testInput01.txt | diff - check_stage2_testExpectedOutput01.txt
+echo Test 02: Balance: 300,000, Box: 1
+./check_stage2_test < check_stage2_testInput02.txt | diff - check_stage2_testExpectedOutput02.txt
+echo Test 03: Balance: 500,000
+./check_stage2_test < check_stage2_testInput03.txt | diff - check_stage2_testExpectedOutput03.txt
+echo Test 04: Balance: 350,000, Box: 2
+./check_stage2_test < check_stage2_testInput04.txt | diff - check_stage2_testExpectedOutput04.txt
+echo Test 05: Balance: 450,000, Box: 3
+./check_stage2_test < check_stage2_testInput05.txt | diff - check_stage2_testExpectedOutput05.txt
+echo Test 06: Balance: 550,000
+./check_stage2_test < check_stage2_testInput06.txt | diff - check_stage2_testExpectedOutput06.txt

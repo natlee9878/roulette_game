@@ -1,0 +1,8 @@
+echo Test 01: Player balance: 50000
+./story_check_result_test < story_check_result_testInput01.txt | diff - story_check_result_testExpectedOutput01.txt
+echo Test 02: Player balance: 1
+./story_check_result_test < story_check_result_testInput02.txt | diff - story_check_result_testExpectedOutput02.txt
+echo Test 03: Player balance: 0
+./story_check_result_test < story_check_result_testInput03.txt | diff - story_check_result_testExpectedOutput03.txt
+echo Test 04: Player balance: -300
+./story_check_result_test < story_check_result_testInput04.txt | diff - story_check_result_testExpectedOutput04.txt

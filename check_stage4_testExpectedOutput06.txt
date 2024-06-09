@@ -1,0 +1,3 @@
+Enter player balance:
+Current player balance: 1500000
+Burning: FALSE, Burn Count: 0

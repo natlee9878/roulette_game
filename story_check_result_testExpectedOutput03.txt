@@ -1,0 +1,4 @@
+Enter player balance:
+Unfortunately.. you have lost everything.. try again next time
+G A M E    O V E R
+Player won: FALSE

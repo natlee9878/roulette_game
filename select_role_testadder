@@ -1,0 +1,10 @@
+echo Test 01: 1,2
+./select_role_test < select_role_testInput01.txt | diff - select_role_testExpectedOutput01.txt
+echo Test 02: 3,2,1
+./select_role_test < select_role_testInput02.txt | diff - select_role_testExpectedOutput02.txt
+echo Test 03: -1,2,0,1
+./select_role_test < select_role_testInput03.txt | diff - select_role_testExpectedOutput03.txt
+echo Test 04: hello,1,$$$,2
+./select_role_test < select_role_testInput04.txt | diff - select_role_testExpectedOutput04.txt
+echo Test 05: 1.7,1,-2.1,2
+./select_role_test < select_role_testInput05.txt | diff - select_role_testExpectedOutput05.txt

@@ -1,0 +1,25 @@
+
+Test1
+Thief 1: Name: Tom Balance: $100000
+You stole $20,000!
+Thief 1: Name: Tom Balance: $100000
+
+Test2
+Thief 2: Name: Jane Balance: $0
+You stole $20,000!
+Thief 2: Name: Jane Balance: $0
+
+Test3
+Thief 3: Name: Frank Balance: $5000
+You stole $20,000!
+Thief 3: Name: Frank Balance: $5000
+
+Test4
+Thief 4: Name: Nancy Balance: $-1
+You stole $20,000!
+Thief 4: Name: Nancy Balance: $-1
+
+Test5
+Thief 5: Name: Gale Balance: $400000
+You stole $20,000!
+Thief 5: Name: Gale Balance: $400000

@@ -1,0 +1,8 @@
+Enter player balance:
+~~~~~~~150,000$ MARK~~~~~~~`
+Congratulations, you have reached the 150,000$ mark!
+Pick from one of the following 2 boxes..
+The boxes could contain something good.. or bad...
+Enter 1 for box 1 or 2 for box 2: Unfortunately you won nothing..
+
+Current player balance: 250000

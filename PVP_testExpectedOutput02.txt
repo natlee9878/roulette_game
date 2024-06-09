@@ -1,0 +1,39 @@
+---ROUND 1---
+Tom's current balance: $480000
+Jerry's current balance: $300000
+----------Tom's Turn----------
+Tom's Balance: $480000
+What would you like to do Tom ?
+1.Pass      2.Gamble      3.Special Ability
+Enter 1, 2 or 3: Tom passed their turn
+
+----------Jerry's Turn----------
+Jerry's Balance: $300000
+What would you like to do Jerry ?
+1.Pass      2.Gamble      3.Special Ability
+Enter 1, 2 or 3: Jerry passed their turn
+
+---ROUND 2---
+Tom's current balance: $480000
+Jerry's current balance: $300000
+----------Tom's Turn----------
+Tom's Balance: $480000
+What would you like to do Tom ?
+1.Pass      2.Gamble      3.Special Ability
+Enter 1, 2 or 3: You stole $20,000!
+Tom's Balance: $500000
+
+Tom HAS ACHIEVED $500,000!
+Tom HAS WON THE GAME!!
+----------Jerry's Turn----------
+Jerry's Balance: $280000
+What would you like to do Jerry ?
+1.Pass      2.Gamble      3.Special Ability
+Enter 1, 2 or 3: Jerry passed their turn
+
+END OF ROUND 2
+Do you wish to continue? Enter 1.Yes or 2.No: 
+Exiting Multiplayer Mode...
+Returning to Main Menu...
+
+0

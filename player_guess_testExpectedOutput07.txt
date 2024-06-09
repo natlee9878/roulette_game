@@ -1,0 +1,2 @@
+Choices: 1.Red(X2), 2.Black(X2), 3.Green(X17)
+Enter a color number: Invalid input. Please enter 1, 2, or 3: Red
