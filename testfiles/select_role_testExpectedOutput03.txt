@@ -1,0 +1,8 @@
+WELCOME TO MULTIPLAYER MODE!
+
+Player 1: Please select your role.
+Enter 1 for Thief, 2 for Detective, or 3 for Role Description: 
+Invalid input. Please enter 1, 2, or 3: 
+Player 2: Please select your role.
+Enter 1 for Thief, 2 for Detective, or 3 for Role Description: 
+Invalid input. Please enter 1, 2, or 3: Detective, Thief

@@ -1,0 +1,3 @@
+Sherlock's Current Balance: 130000
+Enter the amount you'd like to bet: Invalid input, enter a whole number: 
+Sherlock's Bet: 130000

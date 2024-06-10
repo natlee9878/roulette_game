@@ -1,0 +1,10 @@
+echo Test 01: Stage 1 Pass
+./jump_stage_test < jump_stage_testInput01.txt | diff - jump_stage_testExpectedOutput01.txt
+echo Test 02: Stage 2 Pass
+./jump_stage_test < jump_stage_testInput02.txt | diff - jump_stage_testExpectedOutput02.txt
+echo Test 03: Stage 3 Pass
+./jump_stage_test < jump_stage_testInput03.txt | diff - jump_stage_testExpectedOutput03.txt
+echo Test 04: Stage 4 Pass
+./jump_stage_test < jump_stage_testInput04.txt | diff - jump_stage_testExpectedOutput04.txt
+echo Test 05: Stage 5 Pass
+./jump_stage_test < jump_stage_testInput05.txt | diff - jump_stage_testExpectedOutput05.txt

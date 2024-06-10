@@ -1,0 +1,3 @@
+Sherlock's Current Balance: 130000
+Enter the amount you'd like to bet: 
+Sherlock's Bet: 123

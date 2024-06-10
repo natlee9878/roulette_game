@@ -1,0 +1,14 @@
+echo Test 01: 1
+./player_guess_test < player_guess_testInput01.txt | diff - player_guess_testExpectedOutput01.txt
+echo Test 02: 2
+./player_guess_test < player_guess_testInput02.txt | diff - player_guess_testExpectedOutput02.txt
+echo Test 03: 3
+./player_guess_test < player_guess_testInput03.txt | diff - player_guess_testExpectedOutput03.txt
+echo Test 04: 1.5,1
+./player_guess_test < player_guess_testInput04.txt | diff - player_guess_testExpectedOutput04.txt
+echo Test 05: -3,3
+./player_guess_test < player_guess_testInput05.txt | diff - player_guess_testExpectedOutput05.txt
+echo Test 06: james,2
+./player_guess_test < player_guess_testInput06.txt | diff - player_guess_testExpectedOutput06.txt
+echo Test 07: !!!,1
+./player_guess_test < player_guess_testInput07.txt | diff - player_guess_testExpectedOutput07.txt

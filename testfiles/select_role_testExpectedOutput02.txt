@@ -1,0 +1,19 @@
+WELCOME TO MULTIPLAYER MODE!
+
+Player 1: Please select your role.
+Enter 1 for Thief, 2 for Detective, or 3 for Role Description: 
+
+ROLE DESCRIPTION: 
+1. THIEF: 
+You are a thief lurking around the casino looking for some quick cash.
+Special ability: You have an innate ability at stealing. Every round you can choose to pass your turn and steal $20,000 from your opponent's balance.
+2. DETECTIVE: 
+You are a detective on a stakeout at the casino where there are many unsolved cases. In the meantime, you wouldn't mind having abit of fun on the side.
+Special ability: In return for solving a case, you will be rewarded $200,000. Each case takes 3 rounds.
+
+Player 1: Please select your role.
+Enter 1 for Thief, 2 for Detective, or 3 for Role Description: 
+
+Player 2: Please select your role.
+Enter 1 for Thief, 2 for Detective, or 3 for Role Description: 
+Detective, Thief
